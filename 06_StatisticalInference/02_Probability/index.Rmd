@@ -576,7 +576,7 @@ qbeta(0.5, 2, 1)
 ## Summary
 
 - You might be wondering at this point "I've heard of a median before, it didn't require integration. Where's the data?"
-- We're referring to are **population quantities**. Therefore, the median being
+- What we're referring to are **population quantities**. Therefore, the median being
   discussed is the **population median**.
 - A probability model connects the data to the population using assumptions.
 - Therefore the median we're discussing is the **estimand**, the sample median will be the **estimator**
